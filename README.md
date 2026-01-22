@@ -1,11 +1,5 @@
 # Masego Modibane
 
-**Product Data Scientist (Analytics)** focused on turning customer and product data into decisions through **SQL, Python, experimentation/statistics, and clear storytelling**.
-
-- Core: **Product metrics • Funnels • Retention • Segmentation • A/B testing thinking**
-- Tools: **SQL • Python • Power BI** (plus applied NLP/ML when useful)
-- Based in Toronto, Canada
-
 ## Project index (start here)
 
 ### Product analytics (SQL)
