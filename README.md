@@ -14,7 +14,7 @@
 
 ### Statistics & inference (surveys / segmentation)
 - **Survey Age Group Analysis** — practical statistical testing (e.g., non-parametric + categorical association tests) framed around group differences and insights.  
-  → Repo: https://github.com/MasegoM94/survey_age_group_analysis
+  → Repo: https://github.com/MasegoM94/survey-age-group-analysis
 
 ### Applied ML / NLP (end-to-end)
 - **SA Political Manifesto Topic Modeling** — topic modeling (LDA) with an interactive Shiny app to explore themes.  
