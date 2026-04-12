@@ -1,43 +1,78 @@
 # Masego Modibane
 
-**Product Data Scientist (Analytics)** focused on turning customer and product data into decisions through **SQL, Python, experimentation/statistics, and clear storytelling**.
+Product Data Scientist focused on building analytics that help teams understand behaviour, measure impact, and make better decisions.
 
-- Core: **Product metrics • Funnels • Retention • Segmentation • A/B testing thinking**
-- Tools: **SQL • Python • Power BI** (plus applied NLP/ML when useful)
-- Based in Toronto, Canada
+I work across SQL, Python, statistics, forecasting, and BI to turn messy data into clear metrics, reusable analysis, and decision-ready products.
 
-## Project index (start here)
+- **Focus areas:** Product analytics • Forecasting • Experimentation/statistical thinking • Usage intelligence • Self-serve analytics
+- **Tools:** SQL • Python • Power BI • R • Applied ML/NLP
+- **Based in:** Toronto, Canada
 
-### Product analytics (SQL)
-- **E-commerce SQL Portfolio** — product-style analyses across traffic, conversion, retention, and customer behavior.  
-  → Repo: https://github.com/MasegoM94/ecommerce-sql-portfolio
+## Featured work
 
-### Statistics & inference (surveys / segmentation)
-- **Survey Age Group Analysis** — practical statistical testing (e.g., non-parametric + categorical association tests) framed around group differences and insights.  
-  → Repo: https://github.com/MasegoM94/survey-age-group-analysis
+### 1) Power BI Usage Intelligence
+A portfolio project focused on report usage forecasting, behavioural analytics, and decision support for analytics adoption.
+- Forecast usage patterns and detect engagement decline
+- Model report, user, and page-level behaviour
+- Combine analytics engineering, semantic modelling, and forecasting
+- Explore how GenAI can support insight generation on top of usage data
 
-### Applied ML / NLP (end-to-end)
-- **SA Political Manifesto Topic Modeling** — topic modeling (LDA) with an interactive Shiny app to explore themes.  
-  → Repo: https://github.com/MasegoM94/sa-political-manifesto-text-analysis
+→ Repo: [report-usage-forecasting](https://github.com/MasegoM94/report-usage-forecasting)
 
-### BI & stakeholder delivery
-- **Maven CRM Sales Challenge (Power BI)** — dashboarding and business communication with a packaged report.  
-  → Repo: https://github.com/MasegoM94/maven_analytics_crm_sales_challenge
+### 2) E-commerce SQL Portfolio
+Product-style analysis across traffic, conversion, customer behaviour, and business performance.
+- Metric definition and business logic
+- Funnel and performance analysis
+- SQL for decision-oriented product questions
 
-### Automation / engineering habits
-- **Gmail Mail Analysis** — Python automation for email analysis and workflow improvements.  
-  → Repo: https://github.com/MasegoM94/gmail-mail-analysis
+→ Repo: [ecommerce-sql-portfolio](https://github.com/MasegoM94/ecommerce-sql-portfolio)
 
-### Data visualization (geospatial)
-- **Interactive Map (Python)** — interactive mapping and visual storytelling for location-based insights.  
-  → Repo: https://github.com/MasegoM94/interactive_map_python
+### 3) Survey Age Group Analysis
+A reproducible statistics project showing how to test for differences across segments.
+- Kruskal–Wallis for ordinal outcomes
+- Chi-square for categorical relationships
+- Post-hoc analysis to identify what is driving differences
 
-## What I’m building toward
-A portfolio that demonstrates how I:
-1) define product questions and success metrics,  
-2) analyze behavior with SQL/Python,  
-3) validate with statistics/experiments, and  
-4) communicate recommendations clearly (dashboards + concise writeups).
+→ Repo: [survey-age-group-analysis](https://github.com/MasegoM94/survey-age-group-analysis)
+
+### 4) SA Political Manifesto Topic Modeling
+An end-to-end NLP project using topic modelling and an interactive Shiny app.
+- Text preprocessing and LDA topic modelling
+- Exploratory analysis of manifesto themes
+- Interactive communication of model outputs
+
+→ Repo: [sa-political-manifesto-text-analysis](https://github.com/MasegoM94/sa-political-manifesto-text-analysis)
+
+## What this portfolio is built to show
+
+I am intentionally building a portfolio that demonstrates how I:
+
+1. define business and product questions clearly  
+2. structure data into useful analytical models  
+3. analyse behaviour with SQL and Python  
+4. apply statistics or forecasting where it improves decision-making  
+5. communicate insights through dashboards, write-ups, and reusable projects  
+
+## Other projects
+
+- **Power BI / stakeholder delivery:** [maven_analytics_crm_sales_challenge](https://github.com/MasegoM94/maven_analytics_crm_sales_challenge)
+- **Automation:** [gmail-mail-analysis](https://github.com/MasegoM94/gmail-mail-analysis)
+- **Geospatial visualisation:** [interactive-map-python](https://github.com/MasegoM94/interactive-map-python)
+
+## Current interests
+
+I am especially interested in roles and projects at the intersection of:
+- Product Data Science
+- Analytics Engineering
+- Forecasting and behavioural analytics
+- Experimentation and causal thinking
+- GenAI-enabled analytics workflows
+
+## Writing
+
+I also write about analytics, data science, and practical portfolio-building:
+- Medium: [@masego_m](https://medium.com/@masego_m)
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/masegomodibane/
+
+- LinkedIn: [masego-modibane](https://www.linkedin.com/in/masegomodibane/)
